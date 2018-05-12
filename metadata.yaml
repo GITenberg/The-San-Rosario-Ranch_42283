@@ -1,0 +1,27 @@
+_repo: The-San-Rosario-Ranch_42283
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42283-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Elliott, Maud Howe
+    alias: Howe, Maud
+    birthdate: 1854
+    deathdate: 1948
+    gutenberg_agent_id: '39593'
+    url: http://www.gutenberg.org/2009/agents/39593
+description: ''
+gutenberg_issued: '2013-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42283'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'California -- Fiction'
+- !lcc 'PS'
+title: The San Rosario Ranch
+url: http://www.gutenberg.org/ebooks/42283
